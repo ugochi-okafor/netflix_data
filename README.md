@@ -17,7 +17,7 @@ This project analyzes Netflix movie data to examine trends in movie durations ov
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/netflix-movie-analysis.git
+   git clone https://github.com/ugochi-okafor/netflix-movie-analysis.git
    cd netflix-movie-analysis
 2. Install dependencies:
 bash
@@ -33,7 +33,7 @@ jupyter notebook Netflix_Data_Scatter_Plot.ipynb
 ## 📂 Project Files
 
 - **[`Netflix_Data_Scatter_Plot.ipynb`](Netflix_Data_Scatter_Plot.ipynb)** – Jupyter Notebook containing data analysis, preprocessing, and scatter plot visualization.
-- **[`netflix_data.xlsx`](netflix_data.xlsx)** – Dataset with Netflix movie details, including release years and durations.
+- **[`netflix_data.xlsx`]([https://github.com/ugochi-okafor/netflix_data/blob/main/netflix_data.xlsx])** – Dataset with Netflix movie details, including release years and durations.
 
 ## 🚀 Future Enhancements
 
