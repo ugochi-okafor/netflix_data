@@ -32,7 +32,7 @@ jupyter notebook Netflix_Data_Scatter_Plot.ipynb
 
 ## 📂 Project Files
 
-- **[`Netflix_Data_Scatter_Plot.ipynb`](Netflix_Data_Scatter_Plot.ipynb)** – Jupyter Notebook containing data analysis, preprocessing, and scatter plot visualization.
+- **[`Netflix_Data_Scatter_Plot.ipynb`](https://github.com/ugochi-okafor/netflix_data/blob/main/Netflix_Data%20-%20Scatter%20Plot.ipynb)** – Jupyter Notebook containing data analysis, preprocessing, and scatter plot visualization.
 - **[`netflix_data.xlsx`](https://github.com/ugochi-okafor/netflix_data/blob/main/netflix_data.xlsx)** – Dataset with Netflix movie details, including release years and durations.
 
 ## 🚀 Future Enhancements
